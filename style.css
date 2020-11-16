@@ -1,0 +1,26 @@
+body {
+    background-color: #212121 !important;
+}
+
+h2 {
+  color: #D9534F;
+}
+
+.jumbotron {
+  background-color: #55595C !important;
+}
+.card-deck {
+    display: flex;
+    flex-direction: column;
+    }
+
+.card {
+        display: flex;
+        flex: 1 0 0%;
+        flex-direction: column;
+        margin-bottom: 0;
+      }
+
+.card-body {
+  background-color: #55595C;
+}
